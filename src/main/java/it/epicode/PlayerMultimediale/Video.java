@@ -1,4 +1,4 @@
-package Player.multimediale;
+package it.epicode.PlayerMultimediale;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

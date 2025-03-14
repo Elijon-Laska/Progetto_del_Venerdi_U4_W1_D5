@@ -1,4 +1,4 @@
-import Player.multimediale.*;
+import it.epicode.PlayerMultimediale.*;
 
 import java.util.Scanner;
 
