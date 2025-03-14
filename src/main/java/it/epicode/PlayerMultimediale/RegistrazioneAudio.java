@@ -1,5 +1,6 @@
 package it.epicode.PlayerMultimediale;
 
+import it.epicode.PlayerMultimediale.Interface.Riproducibile;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.AllArgsConstructor;

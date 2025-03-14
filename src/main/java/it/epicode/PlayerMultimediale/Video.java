@@ -1,5 +1,6 @@
 package it.epicode.PlayerMultimediale;
 
+import it.epicode.PlayerMultimediale.Interface.Riproducibile;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.AllArgsConstructor;
@@ -7,7 +8,7 @@ import lombok.AllArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class Video extends ElementoMultimediale implements Riproducibile{
+public class Video extends ElementoMultimediale implements Riproducibile {
     private int volume;
     private int luminosita;
 

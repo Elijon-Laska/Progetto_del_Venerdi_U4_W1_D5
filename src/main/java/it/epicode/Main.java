@@ -1,3 +1,5 @@
+package it.epicode;
+
 import it.epicode.PlayerMultimediale.*;
 
 import java.util.Scanner;
