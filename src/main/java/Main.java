@@ -25,11 +25,11 @@ public class Main {
             if (scelta > 0 && scelta <= 5) {
                 player.esegui(elementi[scelta - 1]);
             } else if (scelta != 0) {
-                System.out.println("🛑 L'elemento che hai selezionato non è compreso tra le tue scelte disponibili. Riprova ⏯️ ");
+                System.out.println("🛑 L'elemento che hai selezionato non è compreso tra le tue scelte disponibili. Riprova ⏸️ ");
             }
         } while (scelta != 0);
 
         scanner.close();
-        System.out.println("Lettore multimediale terminato. Grazie per aver utilizzato il lettore EpicMultimediale. A presto 👋😄");
+        System.out.println("Lettore multimediale terminato ⏯️. Grazie per aver utilizzato EpicMultimediale. A presto 👋😄");
     }
 }
